@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rasul
 
-Here I create small SPA(JS, Node.js, MongoDB) and services, for entertainment and education...
+Here I carefully store and develop my SPA applications SPA(JS, Node.js, MongoDB) and services.
